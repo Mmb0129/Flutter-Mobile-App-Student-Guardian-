@@ -29,18 +29,4 @@ The Student Profile Management System is a Flutter-based mobile application that
 3. View and manage your profile details.
 4. Admins can post announcements using the admin interface.
 
-## Contributing
 
-Feel free to contribute to the project. Follow the [contribution guidelines](CONTRIBUTING.md) for more details.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- Thanks to Flutter and Firebase for providing powerful tools for app development.
-
-## Contact
-
-For any questions or support, please contact [Your Name](mailto:your.email@example.com).
